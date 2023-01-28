@@ -25,8 +25,8 @@
 
 <h2> 📜 | Connect with me :</h2>
 
-[<img align="left" alt="AnnaWahl | Instagram" width="55px" height="55px" src="https://i.pinimg.com/736x/09/4f/dc/094fdc3a0809909f50828d900749bc88.jpg" />][instagram]
-[<img align="left" alt="AnnaWahl | Gmail" width="49px" height="49px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj12_umnIk6JbTJc_6ctRYB_DnfISCGHe-C9qZnWkDh-miWaUrRlUfvIN0o6QOEG9PRaw&usqp=CAU" />][gmail]
+[<img align="left" alt="AnnaWahl | Instagram" width="55px" height="55px" src="https://img.icons8.com/wired/512/instagram-new.png" />][instagram]
+[<img align="left" alt="AnnaWahl | Gmail" width="55px" height="55px" src="https://img.icons8.com/dotty/512/gmail.png" />][gmail]
 
 [instagram]: https://www.instagram.com/jaspthefriendlyghost/
 [gmail]: mailto:=wahlanna407@gmail.com
