@@ -4,7 +4,7 @@
 
 <ul>
  <li> <b>( C ) Citation Machine</b> </br> </li>
-  <b>୨୧</b> [link to citation machine is upcoming]
+  <b>୨୧</b> [link to citation machine is upcoming I'll post it after school]
 </ul>
 
 <h2>✒️ | Relevant Coursework :</h2>
