@@ -4,6 +4,7 @@
 
 <ul>
  <li> <a href="https://github.com/awahl2/Citation-Generator"><b>( C ) Citation Machine</b></a> </br> </li>
+ <li> <a href="https://awahl2.github.io/c-svg-practice/"><b>( C ) Loop Generated Graphics</b></a></br> </li>
 </ul>
 
 <h2>✒️ | Relevant Coursework :</h2>
