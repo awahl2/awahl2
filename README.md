@@ -3,8 +3,7 @@
 <h2>☕ | Projects :</h2>
 
 <ul>
- <li> <b>( C ) Citation Machine</b> </br> </li>
-  <b>୨୧</b> [link to citation machine is upcoming I'll post it after school]
+ <li> <a href="https://github.com/awahl2/Citation-Generator"><b>( C ) Citation Machine</b></a> </br> </li>
 </ul>
 
 <h2>✒️ | Relevant Coursework :</h2>
