@@ -1,4 +1,5 @@
-<h1>Hello, I'm Anna! <br/></h1>
+<h1> ┕━»•» Hello, I'm Anna! «•«━━━━━┙<br/></h1>
+<h4> ╰┈➤ ❝ I document my coding progress on here so feel free to join me for the ride ~ ❞</h4>
 
 <h2>☕ | Projects :</h2>
 
