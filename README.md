@@ -21,7 +21,7 @@
 <h2> 🤎 | About me :</h2>
 <ul>
    <li> Reading | Programming | Writing </li>
-   <li> High School Dual Enrollment Student </li>
+   <li> College Student </li>
 </ul>
 
 <h2> 📜 | Connect with me :</h2>
