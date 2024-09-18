@@ -1,20 +1,6 @@
-<header>
-    <style>
-        .grid-container {
-            display: grid;
-            grid-template-columns: auto auto;
-            justify-content: center;
-            gap: 50px;
-            padding: 10px;
-            font-family: "Monaco", monospace;
-        }
-    </style>
-</header>
 <html>
-    <div class="grid-container">
-        <div><h1 align="center"> 〚 Hello, I'm Anna 〛...</h1></div>
-        <div><img align="right"width="55px" height="55px" src="https://cdn3.emoji.gg/emojis/4774-prettyflower3.gif"/></div>
-    </div>
+    <h1 align="center"> 〚 Hello, I'm Anna 〛...</h1>
+    <img align="right"width="55px" height="55px" src="https://cdn3.emoji.gg/emojis/4774-prettyflower3.gif"/>
 <h4 align="left"> ╰┈➤ ❝ I document my coding progress on here so feel free to join me for the ride ~ ❞</h4>
 
 <h2>☕ | Projects :</h2>
