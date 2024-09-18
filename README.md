@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anna!</h1> <img align="right" width="55px" height="55px" src="https://media.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif"/>
+<h1 align="center">Hi, I'm Anna!</h1> <img align="right" width="55px" height="55px" src="https://media.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif"/> </br>
 <h4> ╰┈➤ ❝ I document my coding progress on here so feel free to join me for the ride ~ ❞</h4>
 
 <h2>☕ | Projects :</h2>
