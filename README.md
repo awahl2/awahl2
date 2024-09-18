@@ -15,4 +15,4 @@
             <img align="right" width="200px" style="border-radius:50%" src="[2.jpg](https://github.com/user-attachments/assets/61d38ad5-a593-4b6a-98f9-16484b16bacf)">
         </div>
     </div>
-</html>![2](https://github.com/user-attachments/assets/61d38ad5-a593-4b6a-98f9-16484b16bacf)
+</html>
