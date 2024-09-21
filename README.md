@@ -32,3 +32,7 @@
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>୨୧</b> Introduction to Cybersecurity</p>
     
 <img align="center" width="90%" height="10%" src="https://media.tenor.com/TvNPe66QQhIAAAAi/heart-gif-divider.gif">
+
+<h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">Resume</h3>
+
+  <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>୨୧</b> Feel free to check out my <a href="https://docs.google.com/document/d/1LcNjFZxH79FSQcEFJDJT-VmyO98nXn0GSk30gR1IIpU/edit?usp=sharing">Resume</a> for more information!</br></p>
