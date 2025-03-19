@@ -37,4 +37,4 @@
 
 <h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">Resume</h3>
 
-  <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>୨୧</b> Feel free to check out my <a href="https://docs.google.com/document/d/1LcNjFZxH79FSQcEFJDJT-VmyO98nXn0GSk30gR1IIpU/edit?usp=sharing](https://www.canva.com/design/DAFidMRt0LA/cOr8NqVscqznvQokCiPvAw/view?utm_content=DAFidMRt0LA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5c576a944">Resume</a> for more information!</br></p>
+  <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>୨୧</b> Feel free to check out my <a href="https://www.canva.com/design/DAFidMRt0LA/cOr8NqVscqznvQokCiPvAw/view?utm_content=DAFidMRt0LA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5c576a944">Resume</a> for more information!</br></p>
