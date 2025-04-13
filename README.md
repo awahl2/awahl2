@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=60B86D&width=435&lines=h+e+l+l+o+~)](https://git.io/typing-svg)
-<img align="right" src="[http://www.fillmurray.com/100/100](https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif)">
+<img align="right" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 <ul>
   <li><h3>self-motivated coding enthusiast</h3></li>
 </ul>
