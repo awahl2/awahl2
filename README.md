@@ -1,5 +1,7 @@
-<img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=60B86D&width=435&lines=h+e+l+l+o+~)](https://git.io/typing-svg)
+
+<img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
+
 <h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">╰┈➤ ❝ self-motivated coding enthusiast ❞</h3>
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>Name : </b>Anna Wahl</p>
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>Education : </b>College Junior | Computer Science Major | Mathematics Minor | Data Analytics Concentration</p>
