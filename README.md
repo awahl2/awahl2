@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=60B86D&width=435&lines=h+e+l+l+o+~)](https://git.io/typing-svg)
 <img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 <ul>
-  <li><h3>self-motivated coding enthusiast</h3></li>
+  <li><h3 style="font-family:'Lucida Console', 'Courier New', monospace">self-motivated coding enthusiast</h3></li>
 </ul>
 
 <h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">Character Stats</h3>
