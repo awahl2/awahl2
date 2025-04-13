@@ -9,8 +9,9 @@
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>Languages : </b>Python | R | SQL | Java | C | HTML | CSS | JavaScript</p>
     
 <img align="center" width="90%" height="10%" src="https://media.tenor.com/TvNPe66QQhIAAAAi/heart-gif-divider.gif">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=awahl2&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=480)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=awahl2&theme=shadow-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=480)](https://git.io/streak-stats)
+</p>
 
 <h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">Resume</h3>
 
