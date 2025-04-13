@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 
-<h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">╰┈➤ ❝ self-motivated coding enthusiast ❞</h3>
+<h3 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">╰┈➤ ❝ self-motivated date analyst ❞</h3>
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>Name : </b>Anna Wahl</p>
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>Education : </b>College Junior | Computer Science Major | Mathematics Minor | Data Analytics Concentration</p>
   <p style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><b>Hobbies : </b>Programming | Hackathons | Reading | Gaming</p>
