@@ -12,12 +12,12 @@
 
 ---
 
-### 💼 Technical Skills  
+### Technical Skills  
 **Languages:** Python · R · SQL · Java · C · HTML · CSS · JavaScript  
 
 ---
 
-### 📄 More Info  
+### More Info  
 **୨୧** Feel free to check out my [Resume](https://www.canva.com/design/DAFidMRt0LA/cOr8NqVscqznvQokCiPvAw/view?utm_content=DAFidMRt0LA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5c576a944) for more information!
 
 ---
