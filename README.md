@@ -7,7 +7,7 @@
 ---
 
 **୨୧ Name:** Anna Wahl  
-**୨୧ Education:** Junior @ College | Computer Science Major | Mathematics Minor | Data Analytics Concentration  
+**୨୧ Education:** Junior @ HU | Computer Science Major | Mathematics Minor | Data Analytics Concentration  
 **୨୧ Interests:** Programming · Hackathons · Reading · Gaming  
 
 ---
