@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 
-### ╰┈➤ ❝ self-motivated date analyst ❞
+### ╰┈➤ ❝ self-motivated date analyst and software developer ❞
 
 ---
 
