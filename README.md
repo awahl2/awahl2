@@ -8,7 +8,7 @@
 
 **୨୧ Name:** Anna Wahl  
 
-**୨୧ Education:** Junior @ HU | Computer Science Major | Mathematics Minor | Data Analytics Concentration
+**୨୧ Education:** Senior @ HU | Computer Science Major | Mathematics Minor | Data Analytics Concentration
 
 **୨୧ Experience:** Intern @ UB Global
 
