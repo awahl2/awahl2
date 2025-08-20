@@ -2,17 +2,17 @@
 
 <img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 
-### ╰┈➤ ❝ self-motivated data analyst and software developer ❞
+### ╰┈➤ ❝ self-motivated data analyst ❞
 
 ---
 
 **୨୧ Name:** Anna Wahl  
 
-**୨୧ Education:** Senior @ HU | Computer Science Major | Mathematics Minor | Data Analytics Concentration
+**୨୧ Education:** Senior @ HU | Computer Science Major | Mathematics and Data Analytics Minor | Data Analytics Concentration
 
 **୨୧ Experience:** Intern @ UB Global
 
-**୨୧ Interests:** Programming · Hackathons · Reading · Gaming  
+**୨୧ Interests:** Programming · Reading · Gaming  
 
 ---
 
