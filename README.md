@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 
-### ╰┈➤ ❝ self-motivated data analyst ❞
+### ╰┈➤ ❝ self-motivated data analyst and software developer ❞
 
 ---
 
