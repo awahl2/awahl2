@@ -18,8 +18,6 @@
 
 **୨୧ Hobbies:** Programming · Reading · Gaming  
 
-<br></br>
-
 ### 🖱️ : Technical Skills  
 **Languages:** Python · R · SQL · Java · C · HTML · CSS · JavaScript  
 **Libraries/Frameworks:** Pandas · React · Flask · Nextjs · Tailwind · Flutter/Dart
