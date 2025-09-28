@@ -24,7 +24,7 @@
 
 ### 📈 : Github Stats
 
-<img src="https://stats.hyo.dev/api/github-stats-advanced?login=awahl2" width="500"/> <img src="https://stats.hyo.dev/api/github-trophies?login=awahl2" width="800"/>
+<img src="https://stats.hyo.dev/api/github-trophies?login=awahl2" width="800"/>
 
 ---
 
