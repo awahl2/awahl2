@@ -24,9 +24,7 @@
 
 ### 📈 : Github Stats
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=awahl2)
-
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=awahl2)
+<img src="https://stats.hyo.dev/api/github-stats-advanced?login=awahl2" width="500"/> <img src="https://stats.hyo.dev/api/github-trophies?login=awahl2" width="800"/>
 
 ---
 
