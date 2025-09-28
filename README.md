@@ -5,6 +5,7 @@
 ### ╰┈➤ ❝ self-motivated data analyst and software developer ❞
 
 ---
+### 👋 : Introduction
 
 **୨୧ Name:** Anna Wahl  
 
@@ -16,14 +17,23 @@
 
 ---
 
-### Technical Skills  
+### 🖱️ : Technical Skills  
 **Languages:** Python · R · SQL · Java · C · HTML · CSS · JavaScript  
 
 ---
 
-### More Info  
-**୨୧** Feel free to check out my [Resume](https://www.canva.com/design/DAFidMRt0LA/cOr8NqVscqznvQokCiPvAw/view?utm_content=DAFidMRt0LA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5c576a944) for more information!
+### 📈 : Github Stats
 
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=awahl2)
+
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=awahl2)
+
+---
+
+### 🤝: Connect With Me
+[<img align="left" width="45" src="https://github.com/awahl2/awahl2/blob/main/icons/linkedin.png">](https://www.linkedin.com/in/wahlanna/)
+[<img align="left" width="45" src="https://github.com/awahl2/awahl2/blob/main/icons/instagram.png">](https://www.instagram.com/annas.codespace/)
+<br></br>
 ---
 
 <img align="center" width="90%" height="10%" src="https://media.tenor.com/TvNPe66QQhIAAAAi/heart-gif-divider.gif">
