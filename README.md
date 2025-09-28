@@ -4,7 +4,7 @@
 ### ╰┈➤ ❝ self-motivated data analyst and software developer ❞
 
 ---
-<img align="right" height="350" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
+<img align="right" height="420" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 
 ### 👋 : Introduction
 
@@ -17,6 +17,8 @@
 **୨୧ Present Employment:** Hybrid Data Analyst and Software Engineer Intern @ UB Global
 
 **୨୧ Hobbies:** Programming · Reading · Gaming  
+
+<br></br>
 
 ### 🖱️ : Technical Skills  
 **Languages:** Python · R · SQL · Java · C · HTML · CSS · JavaScript  
