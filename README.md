@@ -4,7 +4,7 @@
 ### ╰┈➤ ❝ self-motivated data analyst and software developer ❞
 
 ---
-<img align="right" height="420" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
+<img align="right" height="350" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
 
 ### 👋 : Introduction
 
