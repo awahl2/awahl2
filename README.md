@@ -14,7 +14,7 @@
 
 **୨୧** Computer Science Major | Mathematics and Data Analytics Minor | Data Analytics Concentration
 
-**୨୧ Present Employment:** Hybrid Data Analyst and Software Engineer Intern @ UB Global
+**୨୧ Present Employment:** Hybrid Data Analyst and Software Engineer Intern @ UB Global | IT Help Desk @ HU
 
 **୨୧ Hobbies:** Programming · Reading · Gaming  
 
