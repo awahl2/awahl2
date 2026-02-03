@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=60B86D&width=435&lines=h+e+l+l+o+~)](https://git.io/typing-svg)
 
 
-### ╰┈➤ ❝ self-motivated data analyst and software developer ❞
+### ╰┈➤ ❝ self-motivated software developer and IT Specialist ❞
 
 ---
 <img align="right" height="350" src="https://media1.tenor.com/m/gEW-d8SxRCwAAAAC/ghibli.gif">
@@ -14,13 +14,13 @@
 
 **୨୧** Computer Science Major | Mathematics and Data Analytics Minor | Data Analytics Concentration
 
-**୨୧ Present Employment:** Hybrid Data Analyst and Software Engineer Intern @ UB Global | IT Help Desk @ HU
+**୨୧ Present Employment:** IT Help Desk @ HU
 
 **୨୧ Hobbies:** Programming · Reading · Gaming  
 
 ### 🖱️ : Technical Skills  
 **Languages:** Python · R · SQL · Java · C · HTML · CSS · JavaScript  
-**Libraries/Frameworks:** Pandas · React · Flask · Nextjs · Tailwind · Flutter/Dart
+**Libraries/Frameworks:** Pandas · React · Flask · Nextjs · Tailwind · Flutter/Dart · Qiskit
 
 ---
 
