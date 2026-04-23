@@ -10,9 +10,7 @@
 
 **୨୧ Name:** Anna Wahl  
 
-**୨୧ Education:** Senior @ HU
-
-**୨୧** Computer Science Major | Mathematics and Data Analytics Minor | Data Analytics Concentration
+**୨୧ Education:** Bachelor's of Science in CS with Data Analytics and Mathematics Minor
 
 **୨୧ Present Employment:** IT Help Desk @ HU
 
