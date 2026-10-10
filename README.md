@@ -12,7 +12,7 @@
 
 **୨୧ Education:** Bachelor's of Science in CS with Data Analytics and Mathematics Minor
 
-**୨୧ Present Employment:** IT Help Desk @ HU
+**୨୧ Present Employment:** IT Service Desk @ Oklahoma Supreme Court
 
 **୨୧ Hobbies:** Programming · Reading · Gaming  
 
